@@ -15,7 +15,8 @@
     },
     "require": {
         "phpunit/phpunit": "^7.2",
-        "twig/twig": "^2.4"
+        "twig/twig": "^2.4",
+        "doctrine/orm": "^2.6"
     },
 	"prefer-stable": true,
     "minimum-stability": "dev"
