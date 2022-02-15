@@ -1,2 +1,5 @@
 /vendor/
 /_test/cache/
+.buildpath
+.project
+.settings/
